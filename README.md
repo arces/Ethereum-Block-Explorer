@@ -5,6 +5,6 @@ Explore each Ethereum block and do computations/work from each one
 - Axios
 
 ## How to Run
-Run npm -i
+Run npm i
 
 Run main.js like you would any other Node.js file
